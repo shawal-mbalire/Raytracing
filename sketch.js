@@ -11,7 +11,7 @@ let xoff = 0;
 let yoff = 10000;
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(600, 600);
   for (let i = 0; i < 5; i++) {
     let x1 = random(width);
     let x2 = random(width);
